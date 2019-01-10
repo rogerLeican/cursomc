@@ -26,8 +26,6 @@ public class Categoria implements Serializable{
 	private List<Produto> produtos = new ArrayList<>();//"produtos" nome do papel no diagrama de classes UML
 	
 	public Categoria() {
-		
-		
 	}
 
 	public Categoria(Integer id, String nome) {

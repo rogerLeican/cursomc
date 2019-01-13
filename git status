@@ -1,0 +1,65 @@
+[33mcommit 507b082b9a175f64e5a0316ad075d90eca60e65b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: unknown <roger.lucian.maciel@gmail.com>
+Date:   Thu Jan 10 22:11:30 2019 -0200
+
+    Commit: Endpoint /clientes/{id} disponivel
+
+[33mcommit 30146f92841e19ccecdde0f2a5f2602608564d32[m
+Author: unknown <roger.lucian.maciel@gmail.com>
+Date:   Thu Jan 10 21:46:54 2019 -0200
+
+    Cliente, TipoCliente, telefones e enderecos
+
+[33mcommit af5254c6bd6ee4dfc348cc172c9663f95d7b058c[m
+Author: unknown <roger.lucian.maciel@gmail.com>
+Date:   Wed Jan 9 22:27:14 2019 -0200
+
+    Estado e Cidade
+
+[33mcommit e37ed116bccbe1e3c8c3fc9cdffe46fb0adfe2a6[m
+Author: unknown <roger.lucian.maciel@gmail.com>
+Date:   Wed Jan 9 00:19:52 2019 -0200
+
+    Ajustes no endpoint /categorias/{id}
+
+[33mcommit 809034823a57bb45928ae45ffe6b424d55843468[m
+Author: unknown <roger.lucian.maciel@gmail.com>
+Date:   Tue Jan 8 23:19:34 2019 -0200
+
+    Produtos e associação muitos para muitos
+
+[33mcommit ae2bda7bc1119d0f389549b43a5b2f4884eed7fd[m
+Author: unknown <roger.lucian.maciel@gmail.com>
+Date:   Tue Jan 8 21:28:14 2019 -0200
+
+    Criando operacao de instanciacao
+
+[33mcommit 06d9322276815ea2ec54bfce3a5a3761315c386c[m
+Author: unknown <roger.lucian.maciel@gmail.com>
+Date:   Tue Jan 8 01:58:55 2019 -0200
+
+     Criando Repository e Service para a categoria
+
+[33mcommit 8f6f5100ec3796cbb42cd3a7b748370788e63c81[m
+Author: unknown <roger.lucian.maciel@gmail.com>
+Date:   Tue Jan 8 00:33:58 2019 -0200
+
+     Bando de dados H2 e a criacao automatica da base de dados
+
+[33mcommit c57df7abcc4d32f896e8ee61b991d4d44df69e0f[m
+Author: unknown <roger.lucian.maciel@gmail.com>
+Date:   Mon Jan 7 01:26:53 2019 -0200
+
+    testando a primeira classe de dominio - categoria
+
+[33mcommit 11deaf701dc9d7715982ad4fca4b8736e69f57d1[m
+Author: unknown <roger.lucian.maciel@gmail.com>
+Date:   Sun Jan 6 23:20:02 2019 -0200
+
+    Rest testando
+
+[33mcommit 2b366cfdeeca74db7143f2a267f71c327cce4b7a[m
+Author: unknown <roger.lucian.maciel@gmail.com>
+Date:   Sun Jan 6 20:37:09 2019 -0200
+
+    projeto criado
